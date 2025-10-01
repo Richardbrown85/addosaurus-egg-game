@@ -1,3 +1,11 @@
+/* Global style */
+
+body {
+    background-color: white;
+    color: #445361;
+    text-align: center;
+}
+
 /* Heading */
 
 .heading {
@@ -18,3 +26,20 @@
     margin-right: auto;
     padding: 1%;
 }
+
+.question-area {
+    width: 50%;
+    font-size: 2rem;
+    margin: auto;
+    padding: 50px 0;
+}
+
+.question-area span {
+    padding: 0 15px;
+}
+
+.score-area {
+    margin: 5px auto;
+    width: 60%;
+    font-size: 1.2rem;
+}    
