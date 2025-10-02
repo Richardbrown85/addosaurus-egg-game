@@ -10,40 +10,6 @@ body {
     background-color: #f9f9f9;
 }
 
-/* Buttons */
-
-.play-game-button {
-    background-color: #FFFFFF;
-    border-radius: 10px ;
-    border: none;
-    color: white;
-    margin-top: 25%;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
-
-.play-game-button:hover {
-    background-color: #0b79df;
-}
-
-.exit-game-button {
-    background-color: #FFFFFF;
-    border-radius: 10px ;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
-
-.exit-game-button:hover {
-    background-color: #0b79df;
-}
 
 /* Heading */
 
@@ -81,4 +47,39 @@ body {
     margin: 5px auto;
     width: 60%;
     font-size: 1.2rem;
-}    
+}
+
+/* Buttons */
+
+.play-game-button {
+    background-color: lightblue;
+    border-radius: 10px ;
+    border: none;
+    color: black;
+    margin-top: 24%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+
+.play-game-button:hover {
+    background-color: #0b79df;
+}
+
+.exit-game-button {
+    background-color: lightblue;
+    border-radius: 10px ;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+
+.exit-game-button:hover {
+    background-color: #0b79df;
+}
